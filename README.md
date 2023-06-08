@@ -16,20 +16,9 @@ pip install tvdatafeed
 or installing from github repo
 
 ```sh
-pip install --upgrade --no-cache-dir git+https://github.com/baselsm/tvdatafeed.git
+pip install --upgrade --no-cache-dir git+https://github.com/nos09/TvDataFeed-2.1.0.git
 ```
 
-For usage instructions, watch these videos-
-
-v1.2 tutorial with installation and backtrader usage
-
-[![Watch the video](https://img.youtube.com/vi/f76dOZW2gwI/hqdefault.jpg)](https://youtu.be/f76dOZW2gwI)
-
-Full tutorial
-
-[![Watch the video](https://img.youtube.com/vi/qDrXmb2ZRjo/hqdefault.jpg)](https://youtu.be/qDrXmb2ZRjo)
-
----
 
 ## Usage
 
